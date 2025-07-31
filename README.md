@@ -30,12 +30,14 @@ Requisitos
 1. Clone o repositório:
 ```bash
 git clone https://github.com/LuisFerMoura/TransferenciaCarros.git;
+```
 
 2. Entre na pasta do projeto e execute
 ```bash
 ./mvnw spring-boot:run
+```
 
-3. endpoints principais
+## 📡 3. endpoints principais
 
 3.1 /pessoas
 POST - Cadastra nova pessoa
