@@ -40,11 +40,11 @@ git clone https://github.com/LuisFerMoura/TransferenciaCarros.git;
 ## 📡 3. endpoints principais
 
 3.1 /pessoas
-POST - Cadastra nova pessoa
-GET - Lista todas as pessoas cadastradas
-GET /pessoas/{id} – Busca pessoa por ID
+- POST - Cadastra nova pessoa
+- GET - Lista todas as pessoas cadastradas
+- GET /pessoas/{id} – Busca pessoa por ID
 
 3.2 /transferencias
-POST - Realiza uma nova transferencia passando id do carro + id do novo dono
+- POST - Realiza uma nova transferencia passando id do carro + id do novo dono
 
 
